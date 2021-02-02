@@ -1,0 +1,13 @@
+[
+  {
+    "IPServer": "localhost",
+    "portServer": "2000",
+    "id_node": "2"
+  },
+  {
+    "IPServer": "localhost",
+    "portServer": "4000",
+    "id_node": "3"
+  }
+
+]
