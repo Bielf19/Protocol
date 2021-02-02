@@ -9,6 +9,8 @@ import java.net.Socket;
 import java.sql.Timestamp;
 import java.util.LinkedList;
 
+// Testing for git. Small change (just this comment)
+
 public class ServidorDedicat extends Thread{
 
     private static final int ownId = 1;
